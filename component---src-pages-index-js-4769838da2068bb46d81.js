@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{RXBc:function(n,e,t){"use strict";t.r(e);var c=t("q1tI"),i=t.n(c);e.default=function(){return i.a.createElement("div",null,"A site for epps")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-4769838da2068bb46d81.js.map
